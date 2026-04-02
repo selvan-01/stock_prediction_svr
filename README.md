@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="thumbnail35.png" width="800">
+</p>
+---
+
 # 📈 Stock Prediction using Support Vector Regression (SVR)
 
 ## 🚀 Project Overview
@@ -127,6 +132,11 @@ streamlit run app.py
 * Portfolio project for ML roles
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/stock_prediction_svr.git)
 
 ## 👨‍💻 Author
 
